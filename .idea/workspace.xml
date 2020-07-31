@@ -1,7 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b439dc2d-f82a-42a6-a6ab-477caa1d8080" name="Default Changelist" comment="" />
+    <list default="true" id="b439dc2d-f82a-42a6-a6ab-477caa1d8080" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/01_Revelation_12.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/04_Say10.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/05_Kill4Me.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/Acdc_Rock_Or_BustMimp3.eu.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/Acdc_ThunderstuckMimp3.eu.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/Acdc_TntMimp3.eu.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/Chuck.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/Sum41chuck.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ac-dc_black-ice.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/app/01_-_Tum_Mile_-_www.downloadming.com.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/app/03_-_Tu_Hi_Haqeeqat_-_www.downloadming.com.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/app/04_-_Bom_Diggy_Diggy_-_MusicBadshah.Com.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/app/Aa-Jao-Meri-Tamanna-RaagSong.Com.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/app/Aa-Jao-Meri-Tamanna-RaagSong.Com_sZZcmxO.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/app/BBC_Sherlock_Offical_Tv_Soundtrack_Series_RingTone_The_Game20On_Mp3.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/app/BBC_Sherlock_Offical_Tv_Soundtrack_Series_RingTone_The_Game20On_Mp3_q4OeLXN.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/app/Dhal_Jaun_Main_320WapKing.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/app/Lo_Safar_-_Baaghi_2-Mr-Song.Com.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/app/Saiyaara_Ek_Tha_Tiger.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/app/Saiyaara_Ek_Tha_Tiger_1UPl6ki.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/app/background1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/app/black-and-silver-headphones-on-black-surface-3721941.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/app/calm-body-of-water-1363876.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/app/download.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/app/iSongs.info__02_-_Bulleya.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/app/people-at-concert-1105666.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/app/person-in-black-hoodie-playing-acoustic-guitar-4472063.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/app/photo-of-a-copper-audio-mixer-3784566.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/app/photo-of-crowd-during-concert-1190295.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/app/photo-of-crowd-during-concert-1190295_vqLOLpH.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/app/photo-of-vinyl-player-1135995.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/app/ringtone_fade.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/app/ringtone_fade_HntyfCm.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/app/ringtone_fade_ZoYVarN.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/app/ringtone_fade_iUk9YsV.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/app/ringtone_fade_iqthpW2.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/app/ringtone_fade_j4jI9eU.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/app/ringtone_fade_xOvXaNm.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/fad8e4cdfafbe44617a537f0ed371162.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/international_scenery_9__7ef91575-976d-49c9-8388-2e7280e3fd88.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/marilynmanson.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/photo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/photo_ymT0lkN.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ringtone_fade.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/unnamed.jpg" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,41 +57,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/serializers.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
-              <folding>
-                <element signature="e#0#78#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/models.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-              <folding>
-                <element signature="e#1#29#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -55,6 +72,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -78,26 +98,40 @@
         <option value="$PROJECT_DIR$/app/models.py" />
         <option value="$PROJECT_DIR$/app/views.py" />
         <option value="$PROJECT_DIR$/app/serializers.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="85" />
     <option name="y" value="25" />
     <option name="width" value="1750" />
     <option name="height" value="980" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="music-site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="music-site" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="directory" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -165,7 +199,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16182299" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16145833" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -176,7 +210,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.25714287" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.5883905" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -394,35 +428,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models.py">
+    <entry file="file://$PROJECT_DIR$/app/serializers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        <state relative-caret-position="858">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
           <folding>
-            <element signature="e#1#29#0" expanded="true" />
+            <element signature="e#0#21#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+        <state relative-caret-position="2079">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
           <folding>
             <element signature="e#0#78#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/serializers.py">
+    <entry file="file://$PROJECT_DIR$/app/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="287">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
           <folding>
-            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#1#29#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
